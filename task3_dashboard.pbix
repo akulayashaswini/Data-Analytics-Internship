@@ -1,0 +1,26 @@
+# Superstore Sales Dashboard
+
+## Project Overview
+This project analyzes the Sample Superstore dataset using Microsoft Power BI.
+
+## KPIs
+- Total Sales
+- Total Profit
+- Sales by Category
+- Sales by Segment
+- Sales by Region
+- Top Products
+
+## Features
+- Interactive slicers for Region, Category, and Segment
+- KPI Cards
+- Bar Charts
+- Pie Chart
+- Product Analysis
+
+## Tools Used
+- Microsoft Power BI
+- Sample Superstore Dataset
+
+## Dashboard
+Interactive dashboard with filters and business insights.
